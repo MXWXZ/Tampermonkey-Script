@@ -5,10 +5,10 @@
 // @description  CSDN自动展开+页面优化
 // @author       MXWXZ
 // @match        *://blog.csdn.net/*
-// @homepageURL  https://github.com/MXWXZ/Tampermonkey-Script/tree/master/CSDN
+// @homepageURL  https://github.com/MXWXZ/Tampermonkey-Script/CSDN/
 // @supportURL   https://github.com/MXWXZ/Tampermonkey-Script/issues/
-// @downloadURL  https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js
-// @updateURL    https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js
+// @downloadURL  https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/CSDN/CSDN.user.js
+// @updateURL    https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/CSDN/CSDN.user.js
 // @grant        none
 // ==/UserScript==
 
