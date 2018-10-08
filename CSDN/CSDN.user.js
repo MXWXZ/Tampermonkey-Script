@@ -16,20 +16,16 @@
     'use strict';
 
     $("#btn-readmore").click();    // 自动展开
-
+    $(".leftPop").remove();        // 缩放提示
     $("#csdn-toolbar").remove();   // 头部导航
     $(".tool-box").remove();       // 悬浮工具栏
     $("#reportContent").remove();  // 举报
-    $("#asideHotArticle").remove();   // 热门文章
+    $("#report-box").remove();     // 举报窗口
+    $("#asideHotArticle").remove(); // 热门文章
+    $(".opt-box").remove();        // 多余按钮
     $("#asideNewComments").remove();  // 最新评论
     $("#asideFooter").remove();    // 底部信息
-    $(".p4course_target").remove();   // 广告
-    $(".t0").remove();             // 广告
-    $("#adt0").remove();           // 广告
     $(".unlogin-box").remove();    // 未登录评论框
     $("#btnMoreComment").click();  // 评论展开
-
     $(".recommend-box").before('<div style="margin-top: 8px;overflow: hidden;"/>');  // 视觉优化
-    $(".recommend-ad-box").remove();  // 广告
-    $(".type_hot_word").remove();  // 广告
 })();
