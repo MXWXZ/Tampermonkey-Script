@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSDN优化
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  CSDN自动展开+页面优化
 // @author       MXWXZ
 // @match        *://blog.csdn.net/*
