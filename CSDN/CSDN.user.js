@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSDN优化
 // @namespace    https://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  CSDN自动展开+页面优化
 // @author       MXWXZ
 // @match        *://blog.csdn.net/*
@@ -15,7 +15,8 @@
 (function() {
     'use strict';
 
-    $("#btn-readmore").click();    // 自动展开
+    $('#article_content').removeAttr('style');  // 展开
+    $(".hide-article-box.text-center").remove();    // 删除阅读全文
     $(".leftPop").remove();        // 缩放提示
     $("#csdn-toolbar").remove();   // 头部导航
     $("#btnMoreComment").click();  // 评论展开
