@@ -14,5 +14,5 @@
 
 | 名称         | 说明                  |
 | :----------: | :-------------------: |
-| [CSDN](CSDN) | CSDN优化 |
-| [zhihu](zhihu) | 知乎优化 |
+| [CSDN](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js) | CSDN优化 |
+| [zhihu](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/zhihu/zhihu.user.js) | 知乎优化 |
