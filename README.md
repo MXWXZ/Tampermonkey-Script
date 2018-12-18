@@ -16,3 +16,4 @@
 | :----------: | :-------------------: |
 | [CSDN](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js) | CSDN优化 |
 | [zhihu](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/zhihu/zhihu.user.js) | 知乎优化 |
+| [anti-anti-adblock](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/anti-anti-adblock/anti-anti-adblock.user.js) | 反反广告拦截 |
