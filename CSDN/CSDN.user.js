@@ -21,4 +21,7 @@
     $("#csdn-toolbar").remove();   // 头部导航
     $("#btnMoreComment").click();  // 评论展开
     $(".recommend-box").before('<div style="margin-top: 8px;overflow: hidden;"/>');  // 视觉优化
+    if (typeof (csdn) != "undefined") {   // 剪切板净化
+        csdn.copyright.init("", "", "");
+    }
 })();
