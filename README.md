@@ -1,7 +1,7 @@
 # Tampermonkey-Script
 自用油猴脚本
 
-**所有脚本均不包含去广告，如果需要请配合使用ABP等插件并更新到最新版本**\
+**部分脚本不包含去广告，如果需要请配合使用ABP等插件并更新到最新版本**\
 推荐添加本人写的补充规则：<https://github.com/MXWXZ/PerfectCNRule>
 
 # 如何安装
@@ -17,3 +17,4 @@
 | [CSDN](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js) | CSDN优化 |
 | [zhihu](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/zhihu/zhihu.user.js) | 知乎优化 |
 | [anti-anti-adblock](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/anti-anti-adblock/anti-anti-adblock.user.js) | 反反广告拦截 |
+| [VideoNoVIP](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/VideoNoVIP/VideoNoVIP.user.js) | 视频去广告和VIP解析 |
