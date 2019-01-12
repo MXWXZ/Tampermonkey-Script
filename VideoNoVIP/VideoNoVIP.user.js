@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         视频去广告和VIP解析
 // @namespace    https://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  精简后的VIP解析脚本，目前支持爱奇艺和腾讯视频，如果我要看其他的会考虑添加……
 // @author       mofiter, MXWXZ
 // @require      https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
@@ -20,7 +20,8 @@
     'use strict';
 
     var $ = $ || window.$;
-    var interface_list = [{ "name": "接口1", "url": "http://jx.52xftv.cn/?url=" }]; // 解析接口
+    var interface_list = [{ "name": "接口1", "url": "http://mlxztz.com/player.php?url=" },
+                          { "name": "接口2", "url": "http://aikan-tv.com/?url=" }]; // 解析接口
 
     function InnerParse(url) {
         $("#iframe-player").attr("src", url);
