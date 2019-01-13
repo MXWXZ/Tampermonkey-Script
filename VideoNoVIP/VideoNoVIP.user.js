@@ -20,8 +20,9 @@
     'use strict';
 
     var $ = $ || window.$;
-    var interface_list = [{ "name": "接口1", "url": "http://mlxztz.com/player.php?url=" },
-                          { "name": "接口2", "url": "http://aikan-tv.com/?url=" }]; // 解析接口
+    var interface_list = [{ "name": "接口1", "url": "http://jiexi.92fz.cn/player/vip.php?url=" },
+                          { "name": "接口2", "url": "http://jiexi.071811.cc/jx2.php?url=" },
+                          { "name": "接口3", "url": "http://aikan-tv.com/?url=" }]; // 解析接口
 
     function InnerParse(url) {
         $("#iframe-player").attr("src", url);
