@@ -12,9 +12,10 @@
 
 ## 脚本列表
 
-| 名称         | 说明                  |
-| :----------: | :-------------------: |
-| [CSDN](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js) | CSDN优化 |
-| [zhihu](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/zhihu/zhihu.user.js) | 知乎优化 |
-| [anti-anti-adblock](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/anti-anti-adblock/anti-anti-adblock.user.js) | 反反广告拦截 |
-| [VideoNoVIP](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/VideoNoVIP/VideoNoVIP.user.js) | 视频去广告和VIP解析 |
+|                                                           名称                                                           |        说明         |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------: |
+|                    [CSDN](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CSDN/CSDN.user.js)                     |      CSDN优化       |
+|                   [zhihu](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/zhihu/zhihu.user.js)                   |      知乎优化       |
+| [anti-anti-adblock](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/anti-anti-adblock/anti-anti-adblock.user.js) |    反反广告拦截     |
+|           [VideoNoVIP](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/VideoNoVIP/VideoNoVIP.user.js)            | 视频去广告和VIP解析 |
+|                 [CNMOOC](https://github.com/MXWXZ/Tampermonkey-Script/raw/master/CNMOOC/CNMOOC.user.js)                  |     CNMOOC优化      |
