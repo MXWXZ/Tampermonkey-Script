@@ -20,9 +20,9 @@
     'use strict';
 
     var $ = $ || window.$;
-    var interface_list = [{ "name": "接口1", "url": "http://jiexi.92fz.cn/player/vip.php?url=" },
-                          { "name": "接口2", "url": "http://jiexi.071811.cc/jx2.php?url=" },
-                          { "name": "接口3", "url": "http://aikan-tv.com/?url=" }]; // 解析接口
+    var interface_list = [{ "name": "接口1", "url": "http://api.hlglwl.com/jx.php?url=" },
+                          { "name": "接口2", "url": "https://api.52xmw.com/?url=" },
+                          { "name": "接口3", "url": "http://vip.jlsprh.com/index.php?url=" }]; // 解析接口
 
     function InnerParse(url) {
         $("#iframe-player").attr("src", url);
@@ -118,6 +118,7 @@
         // 无关推荐和广告
         WaitForKeyElements('.qy-play-bottom', Remove_Node, true);
         WaitForKeyElements('#block-J', Remove_Node, true);
+        WaitForKeyElements('.vpro-banner', Remove_Node, true);
 
         setInterval(() => {
             if (location.href != last_url && $('#flashbox')) {
