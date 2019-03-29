@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         视频去广告和VIP解析
 // @namespace    https://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  精简后的VIP解析脚本，目前支持爱奇艺和腾讯视频，如果我要看其他的会考虑添加……
 // @author       mofiter, MXWXZ
 // @require      https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
