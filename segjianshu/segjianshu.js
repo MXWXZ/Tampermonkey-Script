@@ -6,6 +6,10 @@
 // @author       Peace&Love
 // @include      *://segmentfault.com/*
 // @include      *://www.jianshu.com/*
+// @homepageURL  https://github.com/MXWXZ/Tampermonkey-Script/tree/master/segjianshu/
+// @supportURL   https://github.com/MXWXZ/Tampermonkey-Script/issues/
+// @downloadURL  https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/segjianshu/segjianshu.user.js
+// @updateURL    https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/segjianshu/segjianshu.user.js
 // @grant        none
 // ==/UserScript==
 
