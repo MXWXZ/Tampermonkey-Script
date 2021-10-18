@@ -19,4 +19,4 @@
 | [anti-anti-adblock](https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/anti-anti-adblock/anti-anti-adblock.user.js) |     反反广告拦截     |
 |           [VideoNoVIP](https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/VideoNoVIP/VideoNoVIP.user.js)            | 视频去广告和VIP解析  |
 |                 [CNMOOC](https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/CNMOOC/CNMOOC.user.js)                  |      CNMOOC优化      |
-|              [segjianshu](https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/segjianshu/segjianshu.js)              | segmentfault简书优化 |
+|           [segjianshu](https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/segjianshu/segjianshu.user.js)            | segmentfault简书优化 |
