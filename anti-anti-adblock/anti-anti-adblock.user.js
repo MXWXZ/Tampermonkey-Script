@@ -5,18 +5,19 @@
 // @description  反反广告拦截
 // @author       MXWXZ
 // @match        *://www.ruanyifeng.com/blog/*
-// @homepageURL  https://github.com/MXWXZ/Tampermonkey-Script/anti-anti-adblock/
+// @homepageURL  https://github.com/MXWXZ/Tampermonkey-Script/tree/master/anti-anti-adblock/
 // @supportURL   https://github.com/MXWXZ/Tampermonkey-Script/issues/
 // @downloadURL  https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/anti-anti-adblock/anti-anti-adblock.user.js
 // @updateURL    https://raw.githubusercontent.com/MXWXZ/Tampermonkey-Script/master/anti-anti-adblock/anti-anti-adblock.user.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
-(function() {
-    'use strict';
+(function () {
+  "use strict";
 
-    if (location.hostname === "www.ruanyifeng.com") {  // 阮一峰博客
-        var img = document.querySelector('.entry-sponsor');
-        img.remove();
-    }
+  if (location.hostname === "www.ruanyifeng.com") {
+    // 阮一峰博客
+    var img = document.querySelector(".entry-sponsor");
+    img.remove();
+  }
 })();
