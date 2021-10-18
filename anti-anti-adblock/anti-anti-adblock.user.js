@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         反反广告拦截
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  反反广告拦截
 // @author       MXWXZ
 // @match        *://www.ruanyifeng.com/blog/*
@@ -17,7 +17,6 @@
 
   if (location.hostname === "www.ruanyifeng.com") {
     // 阮一峰博客
-    var img = document.querySelector(".entry-sponsor");
-    img.remove();
+    for (var i = 0; i < 100; i++) clearTimeout(i);
   }
 })();
